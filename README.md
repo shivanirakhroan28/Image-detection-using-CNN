@@ -1,5 +1,5 @@
 
-** Overview**
+**OVERVIEW**
 This project demonstrates image classification using Convolutional Neural Networks (CNN) to classify images of dogs and cats. The CNN model is trained to distinguish between the two categories with high accuracy by processing the features of the images through multiple layers.
 
 **Project Description**
@@ -17,5 +17,5 @@ Dense Layer: Fully connected layers to make predictions.
 Input shape: (image_size, image_size, 3)
 Output: 2 classes (Dog, Cat)
 
-** Libraries and Tools**
+**LIBRARIES & TOOLS**
 Python,TensorFlow,Keras,Numpy,Matplotlib
